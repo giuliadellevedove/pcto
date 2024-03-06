@@ -6,8 +6,8 @@ int main()
     int b;
     int c;
 
-    printf("Inserisci tre numeri\n");
-    scanf("%d %d %d", &a,&b,&c);
+    printf("Inserisci tre numeri");
+    
     if (a-b==b-c)
     { 
         printf ("ok");
